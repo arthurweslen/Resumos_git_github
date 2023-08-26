@@ -22,7 +22,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - git config --list: Para listar todas as configurações
 
 - git clone link_gitclone: Clonar repositório do GitHub
-- git init: Transforma a pasta em um repositório git 
+- git init: Transforma a pasta em um repositório git
+- git remote remove origin: Para  remote origin already exists
 
 - echo nome_pasta/ >.gitignore: Para ignorar a pasta nos commit
 - touch .gitkeep: Criar arquivos dentro da pasta

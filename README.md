@@ -26,10 +26,11 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 - echo nome_pasta/ >.gitignore: Para ignorar a pasta nos commit
 - touch .gitkeep: Criar arquivos dentro da pasta
+- git restore NOME_ARQUIVO.exemplo: Restaura a versão do arquivo pela anterior
+- git reset nome_pasta/nome_arquivo.exemplo - Retira o arquivo do commit
 
 - mkdir inventar_nome_pasta: Cria uma pasta no diretório
 - cd nome_da_pasta: Abre a pasta 
-- cd ..: Volta uma pasta
-- git restore NOME_ARQUIVO.exemplo: Restaura a versão do arquivo pela anterior 
+- cd ..: Volta uma pasta 
 ```
 

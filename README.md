@@ -24,6 +24,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - git clone link_gitclone: Clonar repositório do GitHub
 - git init: Transforma a pasta em um repositório git 
 
+- echo nome_pasta/ >.gitignore: Para ignorar a pasta nos commit
+- touch .gitkeep: Criar arquivos dentro da pasta
+
 - mkdir inventar_nome_pasta: Cria uma pasta no diretório
 - cd nome_da_pasta: Abre a pasta 
 - cd ..: Volta uma pasta

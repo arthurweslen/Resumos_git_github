@@ -30,5 +30,6 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - mkdir inventar_nome_pasta: Cria uma pasta no diretório
 - cd nome_da_pasta: Abre a pasta 
 - cd ..: Volta uma pasta
+- git restore NOME_ARQUIVO.exemplo: Restaura a versão do arquivo pela anterior 
 ```
 

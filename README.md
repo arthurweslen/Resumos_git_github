@@ -17,8 +17,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - git config: Para visualizar as Configurações
 - git config --global user.name "arthurweslen": Para configurar o usuário
 - git config --global user.email "arthurwesley11@gmail.com": Para configurar o email
-- git config init.defaultBranch: Para ver nome da Branch
-- git config --global init.defaultBranch main: Renomear master para main
+- git config init.defaultBranch: Para consultar o nome inicial configurado
+- git config --global init.defaultBranch main: Para usar main como branch inicial em novos repositórios
+- git branch -m main: Para renomear a branch atual para main
 - git config --list: Para listar todas as configurações
 
 - git clone link_gitclone: Clonar repositório do GitHub
